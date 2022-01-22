@@ -1,4 +1,10 @@
 # head_first_c
 
-Изучаем программирование на С. Д. Гриффитс.
-https://yadi.sk/d/_ILymqss7sdzJw
+
+Решение задач из книги "Изучаем программирование на С" Д. Гриффитс.
+
+_______________________________________
+
+Solution of exercises from the book "Head First C" A Brain-Friendly Guide
+
+
